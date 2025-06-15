@@ -10,7 +10,7 @@
   "GRADIENT_THEME": "retro",
   "knownURL": "https://cassidyredux.onrender.com",
   "noFB": false,
-  "PREFIX": "#",
+  "PREFIX": "/",
   "NICKNAME": "Cassidy Bot",
   "CUSTOM_STYLE": {
     "enabled": false,
@@ -23,7 +23,7 @@
   "MODERATORBOT": [],
   "exitOnError": false,
   "WEB_PASSWORD": "liaSS-web",
-  "discordBotToken": "MTM4MDk5MDY5Nzc3MTExMDU2MA.G-whBk.u1KbJA6M2YI_GGVnfqYx3qCeV0UjsjrnlnKWBo",
+  "discordBotToken": "MTM4MzgzNDEyMzYyNTU2NjQwMA.G_yaCo.lDz9O0-HpXLWxmKKGbpV1s5eWh287EIeYZW10U",
   "discordClientID": "1380990697771110560",
   "pageAccessToken": "",
   "pageVerifyToken": "",
